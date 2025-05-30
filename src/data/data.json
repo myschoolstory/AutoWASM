@@ -1,0 +1,57 @@
+{
+  "companyName": "WASM Build",
+  "companyDescription": "Transform your GitHub repositories into WebAssembly modules with advanced static code analysis and comprehensive build reports.",
+  "footerCopyright": "© 2025 WASM Build App. All rights reserved.",
+  "footerCreatedBy": "Created with ❤️ by Proofs.io",
+  "footerCreatedByUrl": "https://proofs.io",
+  "socialLinks": [
+    {
+      "icon": "github",
+      "url": "#"
+    },
+    {
+      "icon": "twitter",
+      "url": "#"
+    },
+    {
+      "icon": "discord",
+      "url": "#"
+    }
+  ],
+  "documentationLinks": [
+    {
+      "label": "Getting Started",
+      "url": "#"
+    },
+    {
+      "label": "API Reference",
+      "url": "#"
+    },
+    {
+      "label": "Build Configuration",
+      "url": "#"
+    },
+    {
+      "label": "Troubleshooting",
+      "url": "#"
+    }
+  ],
+  "supportLinks": [
+    {
+      "label": "Help Center",
+      "url": "#"
+    },
+    {
+      "label": "Community",
+      "url": "#"
+    },
+    {
+      "label": "Contact Us",
+      "url": "#"
+    },
+    {
+      "label": "Status Page",
+      "url": "#"
+    }
+  ]
+}
